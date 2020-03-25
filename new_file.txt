@@ -1,8 +1,5 @@
 git text
 update
 update again
-<<<<<<< HEAD
 How are you? // first modified
-=======
->>>>>>> 727e6ae92a45e1c4eec7a5beaf870eea0cf5578a
 I'm fine, thank you! // second modified
