@@ -2,4 +2,4 @@ git text
 update
 update again
 How are you? // first modified with merge
-I'm fine, thank you!
+I'm fine, thank you! // second modified
