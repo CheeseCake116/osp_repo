@@ -2,5 +2,4 @@ git text
 update
 update again
 How are you? // first modified
-I'm fine, thank you!
->>>>>>> Update new_file.txt
+I'm fine, thank you! // second modified
